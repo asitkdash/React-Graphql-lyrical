@@ -1,2 +1,9 @@
 # Lyrical-GraphQL
-Starter project from a GraphQL course on Udemy.com
+
+project = GraphQL with react
+
+## HLD:
+
+A web-page <---> {webpack and GraphQL} <----> Express <----> MongoDB @ MongoLab
+
+GraphQL Server < ------ > Apollo Server < ------ > Root < -------- > Query (SongList)

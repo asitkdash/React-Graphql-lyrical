@@ -1,16 +1,16 @@
 {
   "name": "lyrical",
   "version": "1.0.0",
-  "description": "Starter point for a graphQL course",
+  "description": "React-graphQL course",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/StephenGrider/Lyrical-GraphQL"
+    "url": ""
   },
   "scripts": {
     "dev": "nodemon index.js --ignore client"
   },
-  "author": "",
+  "author": "Asit Kumar Dash",
   "license": "ISC",
   "dependencies": {
     "nodemon": "*",
